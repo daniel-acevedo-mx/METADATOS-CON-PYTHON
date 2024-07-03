@@ -1,3 +1,5 @@
+# METADATOS-CON-PYTHON
+
 # Daniel Acevedo Mejia TAREA 2 
 # extraccion de metadatos de archivos pdf, xlsx, docxs
 #principalmente se establece la instalacion de librerias 
@@ -48,7 +50,3 @@ elif tipo == 3:
 	reader = wb
 	meta= reader.properties
 	print(meta)
-	
-	
-
-    
